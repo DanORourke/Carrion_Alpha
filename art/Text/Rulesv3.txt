@@ -1,0 +1,149 @@
+﻿Introduction:
+
+	You are an emperor.  Your empire has many rivals.  These empires reached a military stalemate a generation ago and have experienced many years of uneasy peace.  The emperor of the middle empire of Carrion has suddenly died, and his underlings have all killed each other in the resulting fight for power.  The remaining emperors can sense opportunity, and also a threat.  You know that if another emperor takes over the middle empire, it will only be a matter of time before he sweeps in to take your empire as well.  You must act quickly.  You have 5 generals ready for war, but limited intelligence on the characteristics of enemy generals.
+
+	The game ends when agreed to by all surviving players on whatever terms they see fit, a player kills all of the other players’ generals, or a player captures all of the other players’ capitals.
+
+Starting the game:
+
+	1.	Choosing sides and turn order
+
+	Every player rolls a d20.  The highest roll can decide his starting position on the map or his place in the starting turn order. The second highest roll then chooses amongst the remaining options.  Then the third, and so on, until everything is decided, cycling through the order again if necessary.  Once turn position has been determined, play moves clockwise around the board.  With only two or three players, players may not start in adjacent empires. All empires not being played, except for the central empire of Carrion, should be treated as empty grassland and ignored.
+
+	2.	Assigning Generals
+
+	The general cards are shuffled, and five dealt to each player.  These are the players’ five generals.  The players may look at their own cards.  The players must then place each card face down in a different one of the boxes in front of their empire.  The card in the box with one line across the middle indicates that the general on the card is the general being represented on the game board by the piece with one line across the middle.  The same holds for the boxes and pieces with multiple lines across them.  Once a player has determined the identity of each general, he may not change any of their identities.  Each general begins with one regiment.  This regiment represents the general himself and his personal guard.  If he ever loses this last regiment, he is considered dead and will be removed from the board.
+
+	Optional:  Players could also choose to draft generals.  If desired they could include ban phases, where the players prohibit any other player from drafting a particular general.  They could also include a force turn, where players force another player to draft a particular general.
+
+3.	Set up
+
+	Once players have determined their starting empire and generals, they must each set up for war. Each capital is placed in the marked space in the center of the empire.  Each empire begins with four towns and ten supply lines.  The player may arrange these resources however he wishes, with a few rules.  No town can occupy the space directly next to another town, or any space within two spaces of the capital., and town and supply lines must be within the borders of the empire.  The player may start his generals wherever he wishes in the empire, excluding spaces already occupied by a town, capital, or another general.
+
+
+Turn:
+
+	There are four steps to every player's turn, and they must be taken in order.  Once a player has progressed to a later step, he may not change what he did in an earlier step.
+
+	Step 1.	Raise and allocate regiments
+
+	At the beginning of every player's turn, each town occupied by friendly forces is capable of producing up to 1 regiment, while the capital can produce up to 2 regiments. A player may choose to raise fewer regiments than he is capable of raising. Once raised, these regiments must then be placed under a friendly general’s command. A regiment can only be stationed with a general if it has an unbroken supply line from the town that produced it to its final destination. Friendly occupied towns and capitals, as well as friendly generals, can serve as supply lines.  If a player so chooses, a general who is connected by supply lines to a friendly occupied town may dismiss as many regiments as the player wishes. The dismissed regiments may not be transitioned to another general.
+
+	Generals have a max army size of 20 regiments.  The number of regiments under a general’s command is represented on the game board by the circles next to the card of the general.  The circles to the right of the card represent 1 regiment, while the circles above the card represent 5 regiments.  A general has regiments under his command equal to the circles filled with supply line pieces.  For example, if 1 circle above the card is filled with a supply line piece and three circles to the right are filled with a supply line piece, the general has 8 regiments under his command.
+
+	Step 2.	Move Generals
+	
+Number of Regiments
+Normal Movement Speed
+Slowed Movement Speed
+1-5
+5
+4
+6-10
+4
+3
+11-15
+3
+2
+16-20
+2
+1
+21-30 Ash or 16-20 Ch
+1
+1
+
+	After all regiments have been placed, the player may move each of his generals. A general's movement speed is determined by the number of regiments under his command at the beginning of the movement phase according to the table above.  A general is slowed if he either lays or destroys at least one supply line during his movement phase.
+
+	A general may lay a supply line as he moves, at the cost of 1 regiment per supply line laid.  This supply line piece comes directly from the regiments under his command counters next to his card.  Once a supply line is laid, friendly generals may not convert the supply line back into a regiment. A general must destroy any enemy supply line whose space he moves into.  A general may not both lay and destroy any number of supply lines in the movement phase. 
+
+	A general may pass through a territory with a friendly supply line in it as though it is not there.  A general may pass through the space a friendly general, town, or capital occupies, but he may not end his turn in that space. 
+
+	If a general enters an unoccupied town or capital, he may not move any further.  He may occupy the town by leaving one of his regiments in the town.  A supply line piece is removed from the counter next to his card, and a town piece is placed in the space.  The general must then exit the town into any of the spaces bordering the town that are either unoccupied or only occupied by a friendly supply line piece.  If it is impossible for him to leave, then he was not allowed to enter.
+
+	If a general attempts to enter a space occupied by an enemy general, town, or capital, a battle commences, and the general may not make any more movements during this movement phase. If two generals attack the same enemy space during the same movement phase, the player must declare which general is attacking, and which is assisting. The battle phase does not occur until the player has moved all of his generals and declared all of the attacking and assisting generals.  The attacking player then chooses the order in which the battles will be fought.  
+
+	The defending players do not have to choose to commit a general to assist a battle until it is time for that battle to be fought.  A general may defend a friendly general if he is touching the battlefield, if he occupies a space adjacent to the space the general being attacked occupies.  A general may defend a friendly town or capital if he is touching the battlefield, if he occupies a space adjacent to the space the town or capital being attacked occupies. If more than one generals assists a town or capital, the defending player must name a main defender and an assisting defender of the town.
+
+	 A general may only assist once per player turn.  A general may not assist if he is also attacking or being attacked himself.
+
+	Step 3.	Battle
+
+Number of Regiments
+Fight Bonus
+Kills
+Main with 1-5
++5
+3
+Main with 6-10
++10
+6
+Main with 11-15
++15
+9
+Main with 16-20
++20
+12
+Assisting with 1-10
++5
+3
+Assisting with 11-20
++10
+6
+Occupied Town
++1
+1
+Capital without Chief of Staff
++1
+1
+Capital with Chief of Staff
++3
+1
+Battle is in Home Empire
++1
+NA
+Battle is in Enemy Empire
+-1
+NA
+
+	Every battle is decided by a single roll of the dice.  Both players involved roll their d20s once, and the player with the highest roll, modified as needed according to the table above, wins the battle.  A tie goes to the defender.  The winning player's generals then kill the regiments under the losing generals' command according to the table above.  The generals then move depending on the outcome of the battle.
+
+	The fight bonus a player adds to his roll is determined by adding together the bonus of each general involved in the battle.  He may also add 1 if the battle is taking place within the territory of his empire, and must subtract 1 if the battle is taking place in enemy territory.  If a general is the main defender of a town, he fights and kills as though he was attacked directly.
+
+	The winning player may decide how to allocate the casualties amongst the losing player's generals involved in the battle.  Every occupied town or capital has 1 regiment in it that must be killed before the town will fall.  This regiment cannot be killed until all of the regiments under the command of the main defender of the town have been killed.
+
+	If a general attacks another general and wins, he will then move into the space the defending general previously occupied.  The defending general must retreat into one of the three spaces opposite the space the attacking general entered the battlefield from.  If the defending general cannot move into any of those three spaces because they are already occupied by a town, capital, general, or enemy supply line, the defending general and his army will be slaughtered.  He will lose all of his regiments and be removed from the board.  All assisting generals stay adjacent to the battlefield.
+
+	If the defending general wins the battle, he does not move. The attacking generals retreat back into the spaces they entered the battlefield from.  Assisting generals retreat before main attacking generals.  If an attacking general cannot move into the space it attacked from because it is already occupied by a town, capital, or general, the attacking general and his army will be slaughtered.
+
+	If a general attacks a town or capital and kills the regiment inside, he may then occupy the town and must exit to an adjacent space that is either unoccupied or occupied by a friendly supply line.  All assisting generals stay adjacent to the town or capital.
+
+	If a general attacks a town or capital and fails to kill the regiment inside, he will retreat to the space adjacent to the town he attacked from.  All assisting generals stay adjacent to the town or capital.
+
+	Step 4.	Move Chief of Staff
+
+		The player may now move his chief of staff any number of spaces along his supply lines, as long as the chief of staff ends with a general or in the capital.  
+While with a general, the chief of staff will convince the general to follow the player’s orders, making the general easier to control.  A general with the chief of staff will not have a con characteristic, but Alexander will kill his if he loses a battle while equipped.  When the chief of staff is not with him, the general will revert back to his old ways.  If the chief of staff returns to the general, he will then influence him in the same way he did before.
+	While in the Capital, the chief of staff will improve efficiency, giving the Capital +2 fighting, but not killing, effectiveness.
+
+
+Revealing Generals:
+
+	1.	Before Revealing
+
+	Before a general is revealed, he has no special properties.  Neither his pros nor his cons have any effect.
+
+	2.	Revealing
+
+	A player may reveal the identity of any of his generals at any time by turning his card over.  A player must reveal the identity of a general by turning his card over when that general is involved in a battle, either as a main or assisting general, immediately before the battle.
+
+	3.	After Revealing
+
+	Once revealed for any reason, a general’s pros and cons both take immediate effect.  If something about his current state is not allowed because of a characteristic not neutralized by the Chief of Staff, his state is immediately changed to fit.  For example, if Leonidas is revealed while commanding 15 regiments and the Chief of Staff is not with him, 5 regiments will disappear from Leonidas’s command because he has a max army size of 10 regiments.  If Charlemagne, on the other hand, is revealed in battle after moving 5 spaces to attack, something he is too slow to do when revealed, he does not have to go back one space because he moved before being revealed.
+
+Empire Destruction:
+
+	If a player destroys an opposing player’s capital, the opposing player’s empire crumbles.  All towns he occupied instantly become unoccupied, and all of his supply lines disappear.  The destroying empire may recruit one of the crumbling empire’s surviving generals, along with that general’s regiments, causing the destroying empire to gain a general.  All other generals disperse into the countryside and disappear.  
+
+Surrender:
+
+	An emperor may sense the inevitability of defeat, and so decide to abscond with his family and treasure to another continent before the other emperors can catch him.  If he does, his empire will crumble into nothingness, the same as if his capital were destroyed.  All of his surviving generals will instantly move to the back row of his empire with all of their regiments, in number order left to right, and centered in line with the capital.  If there are an even number of surviving generals, the middle space will be unoccupied.  If attacked while in this state, a general is slaughtered without a fight. If another empire occupies the old capital with its own troops, it may recruit one of the surviving generals and all of his regiments to its empire, and the other generals will disperse into the countryside and disappear.
